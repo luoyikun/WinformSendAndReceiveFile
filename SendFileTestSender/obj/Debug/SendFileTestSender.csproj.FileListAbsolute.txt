@@ -1,0 +1,19 @@
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\bin\Debug\SendFileTestSender.exe
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\bin\Debug\SendFileTestSender.pdb
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\SendFileTestSender.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\SendFileTestSender.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\SendFileTestSender.exe
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\SendFileTestSender.pdb
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\obj\Debug\SendFileTestSender.SenderForm.resources
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\bin\Debug\SendFileTestLib.dll
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestSender\bin\Debug\SendFileTestLib.pdb
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\bin\Debug\SendFileTestSender.exe
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\bin\Debug\SendFileTestSender.pdb
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.csprojAssemblyReference.cache
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.SenderForm.resources
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.Properties.Resources.resources
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.csproj.GenerateResource.cache
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.csproj.CoreCompileInputs.cache
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.exe
+D:\UnityRes\Http\SendAndReceiveFile\SendFileTestSender\obj\Debug\SendFileTestSender.pdb

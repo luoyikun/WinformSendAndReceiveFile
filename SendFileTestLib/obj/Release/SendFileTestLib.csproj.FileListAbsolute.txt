@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestLib\bin\Release\SendFileTestLib.dll
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestLib\bin\Release\SendFileTestLib.pdb
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestLib\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestLib\obj\Release\SendFileTestLib.dll
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestLib\obj\Release\SendFileTestLib.pdb

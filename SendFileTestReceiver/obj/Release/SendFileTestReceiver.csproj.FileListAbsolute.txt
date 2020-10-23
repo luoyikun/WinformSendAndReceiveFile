@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\bin\Release\SendFileTestReceiver.exe
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\bin\Release\SendFileTestReceiver.pdb
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\SendFileTestReceiver.ReceiverForm.resources
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\SendFileTestReceiver.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\SendFileTestReceiver.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\SendFileTestReceiver.exe
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\obj\Release\SendFileTestReceiver.pdb
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\bin\Release\SendFileTestLib.dll
+D:\Documents\Visual Studio 2008\Projects\CSharpTests\SendFileTestReceiver\bin\Release\SendFileTestLib.pdb
